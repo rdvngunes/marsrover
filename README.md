@@ -36,5 +36,5 @@ Install .Net Core Sdk - https://dotnet.microsoft.com/download/dotnet-core/2.2
 2. Dependency Injection - Dependency injection is a technique whereby one object supplies the dependencies of another object. 
 3. Command pattern - The command pattern is a behavioral design pattern in which an object is used to encapsulate all information needed to perform an action or trigger an event at a later time.
 4. Strategy pattern - The Strategy pattern is a behavioral software design pattern that enables selecting an algorithm at runtime.
-5. xUnit - xUnit.net is an open-source unit testing tool.
+5. nUnit - nUnit.net is an open-source unit testing tool.
 6. Moq - Moq is a mocking framework for C#/.NET.
